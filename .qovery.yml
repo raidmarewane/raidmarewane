@@ -1,0 +1,11 @@
+---
+application:
+  name: "raidmarewane"
+  project: "dfs-2020"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-raidmarewane"
+  routes:
+  - application_name: "raidmarewane"
+    paths:
+    - "/*"
